@@ -1,4 +1,4 @@
-JOB Interview sample ask
+JOB Interview sample task
 
 The whole task, with a backend and frontend running in the cloud
 web application that is capable of running on the initial
